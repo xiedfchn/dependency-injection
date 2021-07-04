@@ -3,9 +3,9 @@ In software engineering, dependency injection is a technique in which an object 
 
 
 ## Problems Solved
-How can an application or class be independent of how its objects are created?
-How can the way objects are created be specified in separate configuration files?
-How can an application support different configurations?
+- How can an application or class be independent of how its objects are created?
+- How can the way objects are created be specified in separate configuration files?
+- How can an application support different configurations?
 
 ## Benefits of DI
 - Dependency injection allows a client the flexibility of being configurable. Only the client's behavior is fixed. The client may act on anything that supports the intrinsic interface the client expects.
