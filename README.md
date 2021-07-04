@@ -1,5 +1,5 @@
 # dependency-injection-demo
-In software engineering, dependency injection is a technique in which an object receives other objects that it depends on. 
+In software engineering, dependency injection is a technique in which an object receives other objects that it depends on. It transfer the task of creating the object to someone else and directly using the dependency is called dependency injection
 
 
 ## Problems Solved
